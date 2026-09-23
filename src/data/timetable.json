@@ -1,0 +1,1622 @@
+[
+  {
+    "id": 1,
+    "section": "CSE-23",
+    "day": "Monday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 2,
+    "section": "CSE-23",
+    "day": "Monday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Domain Training (Elective)",
+    "facultyName": null
+  },
+  {
+    "id": 3,
+    "section": "CSE-23",
+    "day": "Monday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Ms. Shipra Gautam(SG)"
+  },
+  {
+    "id": 4,
+    "section": "CSE-23",
+    "day": "Monday",
+    "timeSlot": "2:00-2:50",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Mr. Alok Patel (AP)"
+  },
+  {
+    "id": 5,
+    "section": "CSE-23",
+    "day": "Monday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Full Stack Development Training",
+    "facultyName": null
+  },
+  {
+    "id": 6,
+    "section": "CSE-23",
+    "day": "Tuesday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Applied AI",
+    "facultyName": null
+  },
+  {
+    "id": 7,
+    "section": "CSE-23",
+    "day": "Tuesday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Ms. Shipra Gautam(SG)"
+  },
+  {
+    "id": 8,
+    "section": "CSE-23",
+    "day": "Tuesday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Soft Skills",
+    "facultyName": null
+  },
+  {
+    "id": 9,
+    "section": "CSE-23",
+    "day": "Tuesday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Web Technology",
+    "facultyName": "Mr. Ravi Sikka(RS)"
+  },
+  {
+    "id": 10,
+    "section": "CSE-23",
+    "day": "Tuesday",
+    "timeSlot": "2:00-2:50",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Mr. Alok Patel (AP)"
+  },
+  {
+    "id": 11,
+    "section": "CSE-23",
+    "day": "Tuesday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 12,
+    "section": "CSE-23",
+    "day": "Wednesday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Full Stack Development Training",
+    "facultyName": null
+  },
+  {
+    "id": 13,
+    "section": "CSE-23",
+    "day": "Wednesday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Design and Analysis of Algorithm Lab",
+    "facultyName": "Mr. Alok Patel (AP) & Mr. Rahul (RK)"
+  },
+  {
+    "id": 14,
+    "section": "CSE-23",
+    "day": "Wednesday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Web Technology",
+    "facultyName": "Mr. Ravi Sikka(RS)"
+  },
+  {
+    "id": 15,
+    "section": "CSE-23",
+    "day": "Wednesday",
+    "timeSlot": "2:00-2:50",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Dr. Anil Kumar Dubey(AKD)"
+  },
+  {
+    "id": 16,
+    "section": "CSE-23",
+    "day": "Wednesday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Database Management System",
+    "facultyName": "Ms. Ayushi Agarwal(AA)"
+  },
+  {
+    "id": 17,
+    "section": "CSE-23",
+    "day": "Wednesday",
+    "timeSlot": "3:40- 4:30",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Database Management System",
+    "facultyName": "Ms. Ayushi Agarwal(AA)"
+  },
+  {
+    "id": 18,
+    "section": "CSE-23",
+    "day": "Thursday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 19,
+    "section": "CSE-23",
+    "day": "Thursday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Domain Training (Elective)",
+    "facultyName": null
+  },
+  {
+    "id": 20,
+    "section": "CSE-23",
+    "day": "Thursday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Mr. Alok Patel (AP)"
+  },
+  {
+    "id": 21,
+    "section": "CSE-23",
+    "day": "Thursday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Ms. Shipra Gautam(SG)"
+  },
+  {
+    "id": 22,
+    "section": "CSE-23",
+    "day": "Thursday",
+    "timeSlot": "2:00-2:50",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Mr. Alok Patel (AP)"
+  },
+  {
+    "id": 23,
+    "section": "CSE-23",
+    "day": "Thursday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Web Technology Lab",
+    "facultyName": "Mr. Ravi Sikka (RS) & Ms. Ayushi Agarwal(AA)"
+  },
+  {
+    "id": 24,
+    "section": "CSE-23",
+    "day": "Friday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "Lab-31",
+    "subjectName": "Database Management System Lab (Batch 1)",
+    "facultyName": "Ms. Ayushi Agarwal(AA)"
+  },
+  {
+    "id": 25,
+    "section": "CSE-23",
+    "day": "Friday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Database Management System",
+    "facultyName": "Ms. Ayushi Agarwal(AA)"
+  },
+  {
+    "id": 26,
+    "section": "CSE-23",
+    "day": "Friday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Dr. Anil Kumar Dubey(AKD)"
+  },
+  {
+    "id": 27,
+    "section": "CSE-23",
+    "day": "Friday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Quantitative Aptitude / Logical Reasoning",
+    "facultyName": null
+  },
+  {
+    "id": 28,
+    "section": "CSE-23",
+    "day": "Friday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Dr. Anil Kumar Dubey(AKD)"
+  },
+  {
+    "id": 29,
+    "section": "CSE-23",
+    "day": "Friday",
+    "timeSlot": "3:40- 4:30",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "Web Technology",
+    "facultyName": "Mr. Ravi Sikka(RS)"
+  },
+  {
+    "id": 30,
+    "section": "CSE-23",
+    "day": "Saturday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-08",
+    "subjectName": "BNC 502",
+    "facultyName": null
+  },
+  {
+    "id": 31,
+    "section": "CSE-22",
+    "day": "Monday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Mr. Rahul(RK)"
+  },
+  {
+    "id": 32,
+    "section": "CSE-22",
+    "day": "Monday",
+    "timeSlot": "9:40-10:30",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Mr. Sumit Agarwal(SAG)"
+  },
+  {
+    "id": 33,
+    "section": "CSE-22",
+    "day": "Monday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Domain Training (Elective)",
+    "facultyName": null
+  },
+  {
+    "id": 34,
+    "section": "CSE-22",
+    "day": "Monday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "BH-SH-1",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 35,
+    "section": "CSE-22",
+    "day": "Monday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Full Stack Development Training",
+    "facultyName": null
+  },
+  {
+    "id": 36,
+    "section": "CSE-22",
+    "day": "Tuesday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Applied AI",
+    "facultyName": null
+  },
+  {
+    "id": 37,
+    "section": "CSE-22",
+    "day": "Tuesday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Soft Skills",
+    "facultyName": null
+  },
+  {
+    "id": 38,
+    "section": "CSE-22",
+    "day": "Tuesday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Mr. Rahul(RK)"
+  },
+  {
+    "id": 39,
+    "section": "CSE-22",
+    "day": "Tuesday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Mr. Rahul(RK)"
+  },
+  {
+    "id": 40,
+    "section": "CSE-22",
+    "day": "Tuesday",
+    "timeSlot": "2:00-2:50",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Web Technology",
+    "facultyName": "Ms. Sarita Yadav(SYA)"
+  },
+  {
+    "id": 41,
+    "section": "CSE-22",
+    "day": "Tuesday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "BH-SH-1",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 42,
+    "section": "CSE-22",
+    "day": "Wednesday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Full Stack Development Training",
+    "facultyName": null
+  },
+  {
+    "id": 43,
+    "section": "CSE-22",
+    "day": "Wednesday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Mr. Sumit Agarwal(SAG)"
+  },
+  {
+    "id": 44,
+    "section": "CSE-22",
+    "day": "Wednesday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Database Management System",
+    "facultyName": "Ms. Shipra Gautam(SG)"
+  },
+  {
+    "id": 45,
+    "section": "CSE-22",
+    "day": "Wednesday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "Lab-31",
+    "subjectName": "Database Management System Lab (Batch 1)",
+    "facultyName": "Ms. Shipra Gautam(SG)"
+  },
+  {
+    "id": 46,
+    "section": "CSE-22",
+    "day": "Wednesday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "Lab-32",
+    "subjectName": "Database Management System Lab (Batch 2)",
+    "facultyName": "Ms. Tanushri(TU)"
+  },
+  {
+    "id": 47,
+    "section": "CSE-22",
+    "day": "Wednesday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Database Management System",
+    "facultyName": "Ms. Shipra Gautam(SG)"
+  },
+  {
+    "id": 48,
+    "section": "CSE-22",
+    "day": "Wednesday",
+    "timeSlot": "3:40- 4:30",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Mr. D.K. Misra(DKM)"
+  },
+  {
+    "id": 49,
+    "section": "CSE-22",
+    "day": "Thursday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Web Technology",
+    "facultyName": "Ms. Sarita Yadav(SYA)"
+  },
+  {
+    "id": 50,
+    "section": "CSE-22",
+    "day": "Thursday",
+    "timeSlot": "9:40-10:30",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Database Management System",
+    "facultyName": "Ms. Shipra Gautam(SG)"
+  },
+  {
+    "id": 51,
+    "section": "CSE-22",
+    "day": "Thursday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Domain Training (Elective)",
+    "facultyName": null
+  },
+  {
+    "id": 52,
+    "section": "CSE-22",
+    "day": "Thursday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Mr. Rahul(RK)"
+  },
+  {
+    "id": 53,
+    "section": "CSE-22",
+    "day": "Thursday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Design and Analysis of Algorithm Lab",
+    "facultyName": "Mr. Rahul(RK),Mr. Suvayan(SC)"
+  },
+  {
+    "id": 54,
+    "section": "CSE-22",
+    "day": "Thursday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Mr. D.K. Misra(DKM)"
+  },
+  {
+    "id": 55,
+    "section": "CSE-22",
+    "day": "Thursday",
+    "timeSlot": "3:40- 4:30",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Web Technology",
+    "facultyName": "Ms. Sarita Yadav(SYA)"
+  },
+  {
+    "id": 56,
+    "section": "CSE-22",
+    "day": "Friday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Quantitative Aptitude / Logical Reasoning",
+    "facultyName": null
+  },
+  {
+    "id": 57,
+    "section": "CSE-22",
+    "day": "Friday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Mr. Sumit Agarwal(SAG)"
+  },
+  {
+    "id": 58,
+    "section": "CSE-22",
+    "day": "Friday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Mr. D.K. Misra(DKM)"
+  },
+  {
+    "id": 59,
+    "section": "CSE-22",
+    "day": "Friday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "Web Technology Lab",
+    "facultyName": "Ms. Sarita Yadav(SYA), Ms. Ayushi Agarwal(AA), TA"
+  },
+  {
+    "id": 60,
+    "section": "CSE-22",
+    "day": "Friday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "BH-SH-1",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 61,
+    "section": "CSE-22",
+    "day": "Saturday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-07",
+    "subjectName": "BNC 502",
+    "facultyName": null
+  },
+  {
+    "id": 62,
+    "section": "CSE-21",
+    "day": "Monday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "KC-105",
+    "subjectName": "Web Technology",
+    "facultyName": "Ms. Sarita Yadav(SYA)"
+  },
+  {
+    "id": 63,
+    "section": "CSE-21",
+    "day": "Monday",
+    "timeSlot": "9:40-10:30",
+    "roomNumber": "KC-105",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Ms. Shipra Gautam(SG)"
+  },
+  {
+    "id": 64,
+    "section": "CSE-21",
+    "day": "Monday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "KC-105",
+    "subjectName": "Domain Training (Elective)",
+    "facultyName": null
+  },
+  {
+    "id": 65,
+    "section": "CSE-21",
+    "day": "Monday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "KC-105",
+    "subjectName": "Database Management System",
+    "facultyName": "Ms. Tanushri(TU)"
+  },
+  {
+    "id": 66,
+    "section": "CSE-21",
+    "day": "Monday",
+    "timeSlot": "2:00-2:50",
+    "roomNumber": "KC-105",
+    "subjectName": "Soft Skills",
+    "facultyName": null
+  },
+  {
+    "id": 67,
+    "section": "CSE-21",
+    "day": "Monday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "KC-105",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Mr. Deepak Kanojia(DK)"
+  },
+  {
+    "id": 68,
+    "section": "CSE-21",
+    "day": "Monday",
+    "timeSlot": "3:40- 4:30",
+    "roomNumber": "KC-105",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Ms. Shipra Gautam(SG)"
+  },
+  {
+    "id": 69,
+    "section": "CSE-21",
+    "day": "Tuesday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "KC-105",
+    "subjectName": "Full Stack Development Training",
+    "facultyName": null
+  },
+  {
+    "id": 70,
+    "section": "CSE-21",
+    "day": "Tuesday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "KC-105",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Mr. Deepak Kanojia(DK)"
+  },
+  {
+    "id": 71,
+    "section": "CSE-21",
+    "day": "Tuesday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "KC-105",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Ms. Shivani(ST)"
+  },
+  {
+    "id": 72,
+    "section": "CSE-21",
+    "day": "Tuesday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "Lab-31",
+    "subjectName": "Database Management System Lab (Batch 1)",
+    "facultyName": "Ms. Tanushri (TU) Ms. Shipra Gautam (SG)"
+  },
+  {
+    "id": 73,
+    "section": "CSE-21",
+    "day": "Tuesday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "Lab-32",
+    "subjectName": "Database Management System Lab (Batch 2)",
+    "facultyName": "Ms. Tanushri (TU) Ms. Shipra Gautam (SG)"
+  },
+  {
+    "id": 74,
+    "section": "CSE-21",
+    "day": "Tuesday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "KC-105",
+    "subjectName": "Web Technology Lab",
+    "facultyName": "Ms. Sarita Yadav(SYA), Ms. Ayushi, TA"
+  },
+  {
+    "id": 75,
+    "section": "CSE-21",
+    "day": "Wednesday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "BH-SH-1",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 76,
+    "section": "CSE-21",
+    "day": "Wednesday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "KC-105",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Mr. Deepak Kanojia(DK)"
+  },
+  {
+    "id": 77,
+    "section": "CSE-21",
+    "day": "Wednesday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "KC-105",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Ms. Shivani(ST)"
+  },
+  {
+    "id": 78,
+    "section": "CSE-21",
+    "day": "Wednesday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "KC-105",
+    "subjectName": "Web Technology",
+    "facultyName": "Ms. Sarita Yadav(SYA)"
+  },
+  {
+    "id": 79,
+    "section": "CSE-21",
+    "day": "Wednesday",
+    "timeSlot": "2:00-2:50",
+    "roomNumber": "KC-105",
+    "subjectName": "Full Stack Development Training",
+    "facultyName": null
+  },
+  {
+    "id": 80,
+    "section": "CSE-21",
+    "day": "Wednesday",
+    "timeSlot": "3:40- 4:30",
+    "roomNumber": "KC-105",
+    "subjectName": "Database Management System",
+    "facultyName": "Ms. Tanushri(TU)"
+  },
+  {
+    "id": 81,
+    "section": "CSE-21",
+    "day": "Thursday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "BH-SH-1",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 82,
+    "section": "CSE-21",
+    "day": "Thursday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "KC-105",
+    "subjectName": "Domain Training (Elective)",
+    "facultyName": null
+  },
+  {
+    "id": 83,
+    "section": "CSE-21",
+    "day": "Thursday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "KC-105",
+    "subjectName": "Database Management System",
+    "facultyName": "Ms. Tanushri(TU)"
+  },
+  {
+    "id": 84,
+    "section": "CSE-21",
+    "day": "Thursday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "KC-105",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Ms. Shivani(ST)"
+  },
+  {
+    "id": 85,
+    "section": "CSE-21",
+    "day": "Thursday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "KC-105",
+    "subjectName": "Quantitative Aptitude / Logical Reasoning",
+    "facultyName": null
+  },
+  {
+    "id": 86,
+    "section": "CSE-21",
+    "day": "Friday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "KC-105",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Ms. Shipra Gautam(SG)"
+  },
+  {
+    "id": 87,
+    "section": "CSE-21",
+    "day": "Friday",
+    "timeSlot": "9:40-10:30",
+    "roomNumber": "KC-105",
+    "subjectName": "Web Technology",
+    "facultyName": "Ms. Sarita Yadav(SYA)"
+  },
+  {
+    "id": 88,
+    "section": "CSE-21",
+    "day": "Friday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "KC-105",
+    "subjectName": "BCS53",
+    "facultyName": "ST"
+  },
+  {
+    "id": 89,
+    "section": "CSE-21",
+    "day": "Friday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "BH-SH-1",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 90,
+    "section": "CSE-21",
+    "day": "Friday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "KC-105",
+    "subjectName": "Applied AI",
+    "facultyName": null
+  },
+  {
+    "id": 91,
+    "section": "CSE-21",
+    "day": "Saturday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "KC-105",
+    "subjectName": "BNC 502",
+    "facultyName": null
+  },
+  {
+    "id": 92,
+    "section": "CSE-19",
+    "day": "Monday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-106",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Ms. Babli Kumar(BK)"
+  },
+  {
+    "id": 93,
+    "section": "CSE-19",
+    "day": "Monday",
+    "timeSlot": "9:40-10:30",
+    "roomNumber": "AB-106",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Dr. Shanu Sharma(SS)"
+  },
+  {
+    "id": 94,
+    "section": "CSE-19",
+    "day": "Monday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-106",
+    "subjectName": "Domain Training (Elective)",
+    "facultyName": null
+  },
+  {
+    "id": 95,
+    "section": "CSE-19",
+    "day": "Monday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-106",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 96,
+    "section": "CSE-19",
+    "day": "Monday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-106",
+    "subjectName": "Design and Analysis of Algorithm Lab",
+    "facultyName": "Ms. Ayushi(AA)"
+  },
+  {
+    "id": 97,
+    "section": "CSE-19",
+    "day": "Tuesday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-106",
+    "subjectName": "Full Stack Development Training",
+    "facultyName": null
+  },
+  {
+    "id": 98,
+    "section": "CSE-19",
+    "day": "Tuesday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-106",
+    "subjectName": "Soft Skills",
+    "facultyName": null
+  },
+  {
+    "id": 99,
+    "section": "CSE-19",
+    "day": "Tuesday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "AB-106",
+    "subjectName": "Web Technology",
+    "facultyName": "Mr. Vikas Maurya(VM)"
+  },
+  {
+    "id": 100,
+    "section": "CSE-19",
+    "day": "Tuesday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-106",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 101,
+    "section": "CSE-19",
+    "day": "Tuesday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-106",
+    "subjectName": "Database Management System",
+    "facultyName": "Ms. Tanushri (TU)"
+  },
+  {
+    "id": 102,
+    "section": "CSE-19",
+    "day": "Tuesday",
+    "timeSlot": "3:40- 4:30",
+    "roomNumber": "AB-106",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Mr. D.K. Misra(DKM)"
+  },
+  {
+    "id": 103,
+    "section": "CSE-19",
+    "day": "Wednesday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-106",
+    "subjectName": "Database Management System",
+    "facultyName": "Ms. Tanushri (TU)"
+  },
+  {
+    "id": 104,
+    "section": "CSE-19",
+    "day": "Wednesday",
+    "timeSlot": "9:40-10:30",
+    "roomNumber": "AB-106",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Dr. Shanu Sharma(SS)"
+  },
+  {
+    "id": 105,
+    "section": "CSE-19",
+    "day": "Wednesday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-106",
+    "subjectName": "Full Stack Development Training",
+    "facultyName": null
+  },
+  {
+    "id": 106,
+    "section": "CSE-19",
+    "day": "Wednesday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-106",
+    "subjectName": "Web Technology",
+    "facultyName": "Mr. Vikas Maurya(VM)"
+  },
+  {
+    "id": 107,
+    "section": "CSE-19",
+    "day": "Wednesday",
+    "timeSlot": "2:00-2:50",
+    "roomNumber": "AB-106",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Mr. D.K. Misra(DKM)"
+  },
+  {
+    "id": 108,
+    "section": "CSE-19",
+    "day": "Wednesday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-106",
+    "subjectName": "Applied AI",
+    "facultyName": null
+  },
+  {
+    "id": 109,
+    "section": "CSE-19",
+    "day": "Thursday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-106",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Dr. Shanu Sharma(SS)"
+  },
+  {
+    "id": 110,
+    "section": "CSE-19",
+    "day": "Thursday",
+    "timeSlot": "9:40-10:30",
+    "roomNumber": "AB-106",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Ms. Babli Kumar(BK)"
+  },
+  {
+    "id": 111,
+    "section": "CSE-19",
+    "day": "Thursday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-106",
+    "subjectName": "Domain Training (Elective)",
+    "facultyName": null
+  },
+  {
+    "id": 112,
+    "section": "CSE-19",
+    "day": "Thursday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "AB-106",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Mr. D.K. Misra(DKM)"
+  },
+  {
+    "id": 113,
+    "section": "CSE-19",
+    "day": "Thursday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-106",
+    "subjectName": "Web Technology Lab",
+    "facultyName": "Mr. Vikas Maurya (VM), Mr. Ravi Sikka (RS), TA"
+  },
+  {
+    "id": 114,
+    "section": "CSE-19",
+    "day": "Thursday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-106",
+    "subjectName": "Quantitative Aptitude / Logical Reasoning",
+    "facultyName": null
+  },
+  {
+    "id": 115,
+    "section": "CSE-19",
+    "day": "Friday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-106",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Ms. Babli Kumar(BK)"
+  },
+  {
+    "id": 116,
+    "section": "CSE-19",
+    "day": "Friday",
+    "timeSlot": "9:40-10:30",
+    "roomNumber": "AB-106",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Dr. Shanu Sharma(SS)"
+  },
+  {
+    "id": 117,
+    "section": "CSE-19",
+    "day": "Friday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-106",
+    "subjectName": "Web Technology",
+    "facultyName": "Mr. Vikas Maurya(VM)"
+  },
+  {
+    "id": 118,
+    "section": "CSE-19",
+    "day": "Friday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "AB-106",
+    "subjectName": "Database Management System",
+    "facultyName": "Ms. Tanushri (TU)"
+  },
+  {
+    "id": 119,
+    "section": "CSE-19",
+    "day": "Friday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-106",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 120,
+    "section": "CSE-19",
+    "day": "Friday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-106",
+    "subjectName": "Database Management System Lab",
+    "facultyName": "Ms. Tanushri(TU), Ms. Shipra(SG)"
+  },
+  {
+    "id": 121,
+    "section": "CSE-19",
+    "day": "Saturday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-106",
+    "subjectName": "BNC 502",
+    "facultyName": null
+  },
+  {
+    "id": 122,
+    "section": "CSE-18",
+    "day": "Monday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Quantitative Aptitude / Logical Reasoning",
+    "facultyName": null
+  },
+  {
+    "id": 123,
+    "section": "CSE-18",
+    "day": "Monday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Domain Training (Elective)",
+    "facultyName": null
+  },
+  {
+    "id": 124,
+    "section": "CSE-18",
+    "day": "Monday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "BH-SH-1",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 125,
+    "section": "CSE-18",
+    "day": "Monday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Web Technology",
+    "facultyName": "Mr. Ravi Sikka (RS)"
+  },
+  {
+    "id": 126,
+    "section": "CSE-18",
+    "day": "Monday",
+    "timeSlot": "3:40- 4:30",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Mr. Deepak Kanojia(DK)"
+  },
+  {
+    "id": 127,
+    "section": "CSE-18",
+    "day": "Tuesday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Database Management System",
+    "facultyName": "Ms.Babli Kumar (BK)"
+  },
+  {
+    "id": 128,
+    "section": "CSE-18",
+    "day": "Tuesday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Mr. Ritin Behl(RB)"
+  },
+  {
+    "id": 129,
+    "section": "CSE-18",
+    "day": "Tuesday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Mr. Deepak Kanojia(DK)"
+  },
+  {
+    "id": 130,
+    "section": "CSE-18",
+    "day": "Tuesday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Ms.Shavani (ST)"
+  },
+  {
+    "id": 131,
+    "section": "CSE-18",
+    "day": "Tuesday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "BH-SH-1",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 132,
+    "section": "CSE-18",
+    "day": "Wednesday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Web Technology",
+    "facultyName": "Mr. Ravi Sikka (RS)"
+  },
+  {
+    "id": 133,
+    "section": "CSE-18",
+    "day": "Wednesday",
+    "timeSlot": "9:40-10:30",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Web Technology",
+    "facultyName": "Mr. Ravi Sikka (RS)"
+  },
+  {
+    "id": 134,
+    "section": "CSE-18",
+    "day": "Wednesday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Soft Skills",
+    "facultyName": null
+  },
+  {
+    "id": 135,
+    "section": "CSE-18",
+    "day": "Wednesday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Mr. Ritin Behl(RB)"
+  },
+  {
+    "id": 136,
+    "section": "CSE-18",
+    "day": "Wednesday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Ms.Shavani (ST)"
+  },
+  {
+    "id": 137,
+    "section": "CSE-18",
+    "day": "Wednesday",
+    "timeSlot": "2:00-2:50",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Ms.Shavani (ST)"
+  },
+  {
+    "id": 138,
+    "section": "CSE-18",
+    "day": "Wednesday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Mr. Deepak Kanojia(DK)"
+  },
+  {
+    "id": 139,
+    "section": "CSE-18",
+    "day": "Wednesday",
+    "timeSlot": "3:40- 4:30",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Database Management System",
+    "facultyName": "Ms.Babli Kumar (BK)"
+  },
+  {
+    "id": 140,
+    "section": "CSE-18",
+    "day": "Thursday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Design and Analysis of Algorithm Lab",
+    "facultyName": "Ms.Shavani (ST)"
+  },
+  {
+    "id": 141,
+    "section": "CSE-18",
+    "day": "Thursday",
+    "timeSlot": "9:40-10:30",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Design and Analysis of Algorithm Lab",
+    "facultyName": "Ms.Shavani (ST)"
+  },
+  {
+    "id": 142,
+    "section": "CSE-18",
+    "day": "Thursday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Domain Training (Elective)",
+    "facultyName": null
+  },
+  {
+    "id": 143,
+    "section": "CSE-18",
+    "day": "Thursday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "KC-101",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Mr. Ritin Behl(RB)"
+  },
+  {
+    "id": 144,
+    "section": "CSE-18",
+    "day": "Thursday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Full Stack Development Training",
+    "facultyName": null
+  },
+  {
+    "id": 145,
+    "section": "CSE-18",
+    "day": "Thursday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Applied AI",
+    "facultyName": null
+  },
+  {
+    "id": 146,
+    "section": "CSE-18",
+    "day": "Friday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Full Stack Development Training",
+    "facultyName": null
+  },
+  {
+    "id": 147,
+    "section": "CSE-18",
+    "day": "Friday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Web Technology Lab",
+    "facultyName": "Mr. Ravi Sikka (RS),Vikas Maurya(VM),TA"
+  },
+  {
+    "id": 148,
+    "section": "CSE-18",
+    "day": "Friday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "Database Management System Lab",
+    "facultyName": "Ms. Babli Kumari(BK), Mr. D.K. Misra(DKM)"
+  },
+  {
+    "id": 149,
+    "section": "CSE-18",
+    "day": "Friday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "BH-SH-1",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 150,
+    "section": "CSE-18",
+    "day": "Saturday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "AB-LG-04",
+    "subjectName": "BNC 502",
+    "facultyName": null
+  },
+  {
+    "id": 151,
+    "section": "CSE-17",
+    "day": "Monday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "KC-104",
+    "subjectName": "Full Stack Development Training",
+    "facultyName": null
+  },
+  {
+    "id": 152,
+    "section": "CSE-17",
+    "day": "Monday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "KC-104",
+    "subjectName": "Domain Training (Elective)",
+    "facultyName": null
+  },
+  {
+    "id": 153,
+    "section": "CSE-17",
+    "day": "Monday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "KC-104",
+    "subjectName": "Web Technology Lab",
+    "facultyName": "Mr.Vikas Maurya(VM), Ms. Ayushi Agarwal(AA)"
+  },
+  {
+    "id": 154,
+    "section": "CSE-17",
+    "day": "Monday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "KC-104",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Mr. Rahul Kumar(RK)"
+  },
+  {
+    "id": 155,
+    "section": "CSE-17",
+    "day": "Monday",
+    "timeSlot": "3:40- 4:30",
+    "roomNumber": "KC-104",
+    "subjectName": "Database Management System",
+    "facultyName": "Mr. Ritin Behl(RB)"
+  },
+  {
+    "id": 156,
+    "section": "CSE-17",
+    "day": "Tuesday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "KC-104",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Mr. Rahul Kumar(RK)"
+  },
+  {
+    "id": 157,
+    "section": "CSE-17",
+    "day": "Tuesday",
+    "timeSlot": "9:40-10:30",
+    "roomNumber": "KC-104",
+    "subjectName": "Soft Skills",
+    "facultyName": null
+  },
+  {
+    "id": 158,
+    "section": "CSE-17",
+    "day": "Tuesday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "KC-104",
+    "subjectName": "Full Stack Development Training",
+    "facultyName": null
+  },
+  {
+    "id": 159,
+    "section": "CSE-17",
+    "day": "Tuesday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "KC-104",
+    "subjectName": "Database Management System",
+    "facultyName": "Mr. Ritin Behl(RB)"
+  },
+  {
+    "id": 160,
+    "section": "CSE-17",
+    "day": "Tuesday",
+    "timeSlot": "2:00-2:50",
+    "roomNumber": "KC-104",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Mr. Sumit Agarwal(SAG)"
+  },
+  {
+    "id": 161,
+    "section": "CSE-17",
+    "day": "Tuesday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "KC-104",
+    "subjectName": "Design and Analysis of Algorithm Lab",
+    "facultyName": "Mr. Rahul Kumar(RK)"
+  },
+  {
+    "id": 162,
+    "section": "CSE-17",
+    "day": "Wednesday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "BH-SH-1",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 163,
+    "section": "CSE-17",
+    "day": "Wednesday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "KC-104",
+    "subjectName": "Web Technology",
+    "facultyName": "Mr.Vikas Maurya(VM)"
+  },
+  {
+    "id": 164,
+    "section": "CSE-17",
+    "day": "Wednesday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "KC-104",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Mr. Sumit Agarwal(SAG)"
+  },
+  {
+    "id": 165,
+    "section": "CSE-17",
+    "day": "Wednesday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "KC-104",
+    "subjectName": "Quantitative Aptitude / Logical Reasoning",
+    "facultyName": null
+  },
+  {
+    "id": 166,
+    "section": "CSE-17",
+    "day": "Wednesday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "KC-104",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Mr. Rahul Kumar(RK)"
+  },
+  {
+    "id": 167,
+    "section": "CSE-17",
+    "day": "Wednesday",
+    "timeSlot": "3:40- 4:30",
+    "roomNumber": "KC-104",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Mr. Prashant (PKS)"
+  },
+  {
+    "id": 168,
+    "section": "CSE-17",
+    "day": "Thursday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "BH-SH-1",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 169,
+    "section": "CSE-17",
+    "day": "Thursday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "KC-104",
+    "subjectName": "Domain Training (Elective)",
+    "facultyName": null
+  },
+  {
+    "id": 170,
+    "section": "CSE-17",
+    "day": "Thursday",
+    "timeSlot": "11:30-12:20",
+    "roomNumber": "KC-104",
+    "subjectName": "Web Technology",
+    "facultyName": "Mr.Vikas Maurya(VM)"
+  },
+  {
+    "id": 171,
+    "section": "CSE-17",
+    "day": "Thursday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "KC-104",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Mr. Prashant (PKS)"
+  },
+  {
+    "id": 172,
+    "section": "CSE-17",
+    "day": "Thursday",
+    "timeSlot": "2:00-2:50",
+    "roomNumber": "KC-104",
+    "subjectName": "Machine Learning and Techniques",
+    "facultyName": "Mr. Prashant (PKS)"
+  },
+  {
+    "id": 173,
+    "section": "CSE-17",
+    "day": "Thursday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "KC-104",
+    "subjectName": "Applied AI",
+    "facultyName": null
+  },
+  {
+    "id": 174,
+    "section": "CSE-17",
+    "day": "Friday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "KC-104",
+    "subjectName": "Web Technology",
+    "facultyName": "Mr.Vikas Maurya(VM)"
+  },
+  {
+    "id": 175,
+    "section": "CSE-17",
+    "day": "Friday",
+    "timeSlot": "9:40-10:30",
+    "roomNumber": "KC-104",
+    "subjectName": "Object Oriented System Design with C++",
+    "facultyName": "Mr. Sumit Agarwal(SAG)"
+  },
+  {
+    "id": 176,
+    "section": "CSE-17",
+    "day": "Friday",
+    "timeSlot": "10:40-11:30",
+    "roomNumber": "KC-104",
+    "subjectName": "Database Management System Lab",
+    "facultyName": "Mr. Ritin Behl(RB), Ms. Shipra (SG)"
+  },
+  {
+    "id": 177,
+    "section": "CSE-17",
+    "day": "Friday",
+    "timeSlot": "1:10-2:00",
+    "roomNumber": "BH-SH-1",
+    "subjectName": "DSA Training",
+    "facultyName": null
+  },
+  {
+    "id": 178,
+    "section": "CSE-17",
+    "day": "Friday",
+    "timeSlot": "2:50-3:40",
+    "roomNumber": "KC-104",
+    "subjectName": "Database Management System",
+    "facultyName": "Mr. Ritin Behl(RB)"
+  },
+  {
+    "id": 179,
+    "section": "CSE-17",
+    "day": "Friday",
+    "timeSlot": "3:40- 4:30",
+    "roomNumber": "KC-104",
+    "subjectName": "Design and Analysis of Algorithm",
+    "facultyName": "Mr. Rahul Kumar(RK)"
+  },
+  {
+    "id": 180,
+    "section": "CSE-17",
+    "day": "Saturday",
+    "timeSlot": "08:50-09:40",
+    "roomNumber": "KC-104",
+    "subjectName": "BNC 502",
+    "facultyName": null
+  }
+]

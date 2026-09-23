@@ -1,0 +1,11 @@
+[
+  { "id": 1, "slot": "09:00–09:50", "label": "Period 1 (09:00 AM - 09:50 AM)" },
+  { "id": 2, "slot": "09:50–10:40", "label": "Period 2 (09:50 AM - 10:40 AM)" },
+  { "id": 3, "slot": "10:40–11:30", "label": "Period 3 (10:40 AM - 11:30 AM)" },
+  { "id": 4, "slot": "11:30–12:20", "label": "Period 4 (11:30 AM - 12:20 PM)" },
+  { "id": 5, "slot": "12:20–01:10", "label": "Lunch Break (12:20 PM - 01:10 PM)" },
+  { "id": 6, "slot": "01:10–02:00", "label": "Period 5 (01:10 PM - 02:00 PM)" },
+  { "id": 7, "slot": "02:00–02:50", "label": "Period 6 (02:00 PM - 02:50 PM)" },
+  { "id": 8, "slot": "02:50–03:40", "label": "Period 7 (02:50 PM - 03:40 PM)" },
+  { "id": 9, "slot": "03:40–04:30", "label": "Period 8 (03:40 PM - 04:30 PM)" }
+]

@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --abes-crimson: #a51c30;
+    --abes-dark-maroon: #772823;
+    --abes-navy: #002147;
+    --abes-gold: #d97706;
+  }
+
+  html, body {
+    background-color: #f8fafc !important;
+    color: #0f172a !important;
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    min-height: 100vh;
+  }
+}
+
+/* Custom Scrollbar for Light Theme */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a51c30;
+}
+
+/* Crisp White Card & Panel Utilities */
+.glass-panel {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+  border: 1px solid #e2e8f0 !important;
+  box-shadow: 0 4px 12px -2px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03) !important;
+}
+
+.glass-panel-hover {
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-panel-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 24px -6px rgba(165, 28, 48, 0.12), 0 4px 6px -2px rgba(0, 0, 0, 0.05) !important;
+  border-color: #a51c30 !important;
+}
+
+/* ABES EC Light Theme Accent */
+.bg-abes-crimson {
+  background-color: #a51c30 !important;
+}
+
+.text-abes-crimson {
+  color: #a51c30 !important;
+}
+
+.border-abes-crimson {
+  border-color: #a51c30 !important;
+}

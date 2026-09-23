@@ -1,0 +1,122 @@
+[
+  {
+    "roomNumber": "CR-301",
+    "roomName": "Classroom 301 (Smart Class)",
+    "block": "Ramanujan Academic Block",
+    "floor": "3rd Floor",
+    "type": "Classroom",
+    "capacity": 60
+  },
+  {
+    "roomNumber": "CR-302",
+    "roomName": "Classroom 302 (Smart Class)",
+    "block": "Ramanujan Academic Block",
+    "floor": "3rd Floor",
+    "type": "Classroom",
+    "capacity": 60
+  },
+  {
+    "roomNumber": "CR-201",
+    "roomName": "Classroom 201",
+    "block": "Ramanujan Academic Block",
+    "floor": "2nd Floor",
+    "type": "Classroom",
+    "capacity": 65
+  },
+  {
+    "roomNumber": "CR-202",
+    "roomName": "Classroom 202",
+    "block": "Ramanujan Academic Block",
+    "floor": "2nd Floor",
+    "type": "Classroom",
+    "capacity": 65
+  },
+  {
+    "roomNumber": "CR-101",
+    "roomName": "Classroom 101",
+    "block": "Ramanujan Academic Block",
+    "floor": "1st Floor",
+    "type": "Classroom",
+    "capacity": 70
+  },
+  {
+    "roomNumber": "LT-1",
+    "roomName": "Lecture Theatre 1 (Auditorium Style)",
+    "block": "Ramanujan Academic Block",
+    "floor": "1st Floor",
+    "type": "Lecture Theatre",
+    "capacity": 120
+  },
+  {
+    "roomNumber": "LT-2",
+    "roomName": "Lecture Theatre 2",
+    "block": "Ramanujan Academic Block",
+    "floor": "1st Floor",
+    "type": "Lecture Theatre",
+    "capacity": 120
+  },
+  {
+    "roomNumber": "Lab-1",
+    "roomName": "AI & Machine Learning Lab",
+    "block": "Aryabhata Lab Block",
+    "floor": "Ground Floor",
+    "type": "Computer Lab",
+    "capacity": 45
+  },
+  {
+    "roomNumber": "Lab-2",
+    "roomName": "DBMS & Web Technology Lab",
+    "block": "Aryabhata Lab Block",
+    "floor": "Ground Floor",
+    "type": "Computer Lab",
+    "capacity": 45
+  },
+  {
+    "roomNumber": "Lab-3",
+    "roomName": "Python & Data Science Lab",
+    "block": "Aryabhata Lab Block",
+    "floor": "1st Floor",
+    "type": "Computer Lab",
+    "capacity": 45
+  },
+  {
+    "roomNumber": "Lab-4",
+    "roomName": "Software Engineering Lab",
+    "block": "Aryabhata Lab Block",
+    "floor": "1st Floor",
+    "type": "Computer Lab",
+    "capacity": 45
+  },
+  {
+    "roomNumber": "Lab-5",
+    "roomName": "Networking & Security Lab",
+    "block": "Aryabhata Lab Block",
+    "floor": "2nd Floor",
+    "type": "Computer Lab",
+    "capacity": 40
+  },
+  {
+    "roomNumber": "CR-12",
+    "roomName": "Electronics Classroom 12",
+    "block": "Visvesvaraya Core Block",
+    "floor": "1st Floor",
+    "type": "Classroom",
+    "capacity": 60
+  },
+  {
+    "roomNumber": "CR-14",
+    "roomName": "Mechanical Classroom 14",
+    "block": "Visvesvaraya Core Block",
+    "floor": "1st Floor",
+    "type": "Classroom",
+    "capacity": 60
+  },
+  {
+    "roomNumber": "Seminar Hall 1",
+    "roomName": "Main Admin Seminar Hall",
+    "block": "Main Admin Block",
+    "floor": "Ground Floor",
+    "type": "Auditorium",
+    "capacity": 200
+  }
+]

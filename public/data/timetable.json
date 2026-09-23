@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "section": "CSE-3A",
+    "day": "Monday",
+    "timeSlot": "09:00–09:50",
+    "roomNumber": "CR-301",
+    "subjectName": "Data Structures & Algorithms",
+    "facultyName": "Dr. A. K. Sharma"
+  },
+  {
+    "id": 2,
+    "section": "CSE-3A",
+    "day": "Monday",
+    "timeSlot": "09:50–10:40",
+    "roomNumber": "CR-301",
+    "subjectName": "Operating Systems",
+    "facultyName": "Prof. Anjali Srivastava"
+  },
+  {
+    "id": 3,
+    "section": "CSE-3A",
+    "day": "Monday",
+    "timeSlot": "10:40–11:30",
+    "roomNumber": "Lab-2",
+    "subjectName": "Web Development Lab",
+    "facultyName": "Prof. Anjali Srivastava"
+  },
+  {
+    "id": 4,
+    "section": "CSE-3A",
+    "day": "Monday",
+    "timeSlot": "11:30–12:20",
+    "roomNumber": "Lab-2",
+    "subjectName": "Web Development Lab",
+    "facultyName": "Prof. Anjali Srivastava"
+  },
+  {
+    "id": 5,
+    "section": "CSE-3A",
+    "day": "Monday",
+    "timeSlot": "01:10–02:00",
+    "roomNumber": "CR-301",
+    "subjectName": "Computer Networks",
+    "facultyName": "Prof. Neha Agarwal"
+  },
+  {
+    "id": 6,
+    "section": "CSE-3B",
+    "day": "Monday",
+    "timeSlot": "09:00–09:50",
+    "roomNumber": "CR-302",
+    "subjectName": "Operating Systems",
+    "facultyName": "Prof. Anjali Srivastava"
+  },
+  {
+    "id": 7,
+    "section": "CSE-3B",
+    "day": "Monday",
+    "timeSlot": "09:50–10:40",
+    "roomNumber": "CR-302",
+    "subjectName": "Computer Networks",
+    "facultyName": "Prof. Neha Agarwal"
+  },
+  {
+    "id": 8,
+    "section": "CSE-3B",
+    "day": "Monday",
+    "timeSlot": "10:40–11:30",
+    "roomNumber": "CR-302",
+    "subjectName": "Data Structures",
+    "facultyName": "Dr. A. K. Sharma"
+  },
+  {
+    "id": 9,
+    "section": "AIML-3A",
+    "day": "Monday",
+    "timeSlot": "09:00–09:50",
+    "roomNumber": "Lab-1",
+    "subjectName": "AI Neural Networks Lab",
+    "facultyName": "Prof. Meenakshi Sundaram"
+  },
+  {
+    "id": 10,
+    "section": "AIML-3A",
+    "day": "Monday",
+    "timeSlot": "09:50–10:40",
+    "roomNumber": "Lab-1",
+    "subjectName": "AI Neural Networks Lab",
+    "facultyName": "Prof. Meenakshi Sundaram"
+  },
+  {
+    "id": 11,
+    "section": "AIML-3A",
+    "day": "Monday",
+    "timeSlot": "01:10–02:00",
+    "roomNumber": "CR-201",
+    "subjectName": "Artificial Intelligence",
+    "facultyName": "Prof. Meenakshi Sundaram"
+  },
+  {
+    "id": 12,
+    "section": "IT-3A",
+    "day": "Monday",
+    "timeSlot": "10:40–11:30",
+    "roomNumber": "CR-202",
+    "subjectName": "Database Management Systems",
+    "facultyName": "Dr. R. K. Gupta"
+  },
+  {
+    "id": 13,
+    "section": "IT-3A",
+    "day": "Monday",
+    "timeSlot": "11:30–12:20",
+    "roomNumber": "Lab-3",
+    "subjectName": "DBMS SQL Lab",
+    "facultyName": "Dr. R. K. Gupta"
+  },
+  {
+    "id": 14,
+    "section": "DS-3A",
+    "day": "Monday",
+    "timeSlot": "02:00–02:50",
+    "roomNumber": "LT-2",
+    "subjectName": "Machine Learning",
+    "facultyName": "Dr. Vikas Choudhary"
+  },
+  {
+    "id": 15,
+    "section": "ECE-2A",
+    "day": "Tuesday",
+    "timeSlot": "09:00–09:50",
+    "roomNumber": "CR-12",
+    "subjectName": "Signals & Systems",
+    "facultyName": "Prof. Sangeeta Verma"
+  },
+  {
+    "id": 16,
+    "section": "ECE-2A",
+    "day": "Tuesday",
+    "timeSlot": "09:50–10:40",
+    "roomNumber": "CR-12",
+    "subjectName": "Digital Electronics",
+    "facultyName": "Prof. Sangeeta Verma"
+  },
+  {
+    "id": 17,
+    "section": "CSE-3A",
+    "day": "Tuesday",
+    "timeSlot": "10:40–11:30",
+    "roomNumber": "CR-301",
+    "subjectName": "Advanced Java Programming",
+    "facultyName": "Dr. A. K. Sharma"
+  },
+  {
+    "id": 18,
+    "section": "CSE-3B",
+    "day": "Wednesday",
+    "timeSlot": "10:40–11:30",
+    "roomNumber": "Lab-4",
+    "subjectName": "Software Engineering Lab",
+    "facultyName": "Prof. Anjali Srivastava"
+  },
+  {
+    "id": 19,
+    "section": "ME-2A",
+    "day": "Wednesday",
+    "timeSlot": "09:00–09:50",
+    "roomNumber": "CR-14",
+    "subjectName": "Fluid Mechanics",
+    "facultyName": "Dr. Praveen Kumar"
+  },
+  {
+    "id": 20,
+    "section": "All CSE",
+    "day": "Friday",
+    "timeSlot": "02:00–02:50",
+    "roomNumber": "Seminar Hall 1",
+    "subjectName": "Departmental Technical Seminar",
+    "facultyName": "Dr. A. K. Sharma"
+  }
+]
